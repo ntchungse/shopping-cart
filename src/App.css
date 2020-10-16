@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main {
+    flex: 3 70rem;
+}
+.shoppingCart {
+    flex: 1 20rem;
+}
